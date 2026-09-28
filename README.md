@@ -1,5 +1,5 @@
 # aqs-chatter-app
-Have you ever tried to collaborate with a team mate or friend over discord, slack, or some other communication service? Well I sure have. 
+Have you ever tried to collaborate with a team mate or friend (https://github.com/Brayden-Knight  BvK) over discord, slack, or some other communication service? Well I sure have. 
 
 During a discord session with a friend while we were dedicated to learn python, discord began to cut off his questions, or cause the screen to loop. I grabbed my phone and gave him a phone call and told him, we are putting the current project on hold; we are starting a new project to communicate without relying on discord servers. 
 
